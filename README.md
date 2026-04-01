@@ -4,9 +4,9 @@ ADS - Administração e Desenvolvimento de Sistemas
 
 PROJETO: Desenvolvimento de Aplicação Web Front-End
 
-Primeiro Semestre
+Primeiro Semestre de 2026
 
-[Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.]
+O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso, compreensão e uso que permita a pessoas com dificuldades financeiras a busca de instruções claras e práticas para tomadas de decisão acerca de sua vida financeira.
 
 ## Integrantes
 
